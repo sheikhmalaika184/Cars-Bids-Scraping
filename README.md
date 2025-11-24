@@ -22,12 +22,12 @@ This project scrapes past auction listings from https://carsandbids.com/past-auc
 
 After running the scraper, each car will have its own folder:
 output/
-├─ 1991-Ford-Taurus-SHO-JT12345/
-│ ├─ information.csv
-│ ├─ information.txt
-│ └─ pictures/
-│  ├─ 0.jpg
-│  └─ 1.jpg
+- ├─ 1991-Ford-Taurus-SHO-JT12345/
+- │ ├─ information.csv
+- │ ├─ information.txt
+- │ └─ pictures/
+- │  ├─ 0.jpg
+- │  └─ 1.jpg
 
 ---
 
